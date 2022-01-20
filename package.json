@@ -1,0 +1,30 @@
+{
+  "name": "party-website",
+  "version": "1.0.0",
+  "description": "party website ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElhamHeshamElsergany/party-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElhamHeshamElsergany/party-/issues"
+  },
+  "homepage": "https://github.com/ElhamHeshamElsergany/party-#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-terser": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp-css": "^0.1.0",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
